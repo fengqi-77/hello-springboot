@@ -14,4 +14,9 @@ public class DemoController {
     public String hello(){
         return "施工队 hello world！";
     }
+
+    public static void main(String[] args) {
+
+        System.out.println("测试git");
+    }
 }
